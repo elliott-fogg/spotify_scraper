@@ -1,0 +1,6 @@
+Need to work on being able to iterate through every spotify artist as quickly as
+possible.
+
+Need to work out if I can use the spaces (e.g. %20) to make spotify recognise
+the query string as a key word, and only give me artists that include it.
+Is there such a thing as a "starts with" or a wildcard option?
